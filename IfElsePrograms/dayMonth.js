@@ -1,4 +1,5 @@
-const readline =require("readline");
+//get day and month from the user and print //
+const readline =require("readline");  
 const r1=readline.createInterface({
     input:process.stdin,
     output:process.stdout
